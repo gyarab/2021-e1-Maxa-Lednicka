@@ -233,7 +233,7 @@ public class LednickaRocnikovaPrace1E2021KrystofMaxa extends Application {
          
          */
 
-        Scene scene = new Scene(pane, 700, 700);
+        Scene scene = new Scene(pane, 500, 500);
 
         stage.setScene(scene);
         stage.show();
