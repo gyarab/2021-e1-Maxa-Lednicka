@@ -1,1 +1,0 @@
-# 2021-e1-Maxa-Lednicka
